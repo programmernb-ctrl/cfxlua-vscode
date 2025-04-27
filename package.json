@@ -1,5 +1,5 @@
 {
-  "name": "cfxlua-vscode",
+  "name": "cfxlua-typings",
   "displayName": "CfxLua (FiveM/RedM) IntelliSense - thirst",
   "description": "Natives and IntelliSense support for the Lua Script runtime used by FiveM and RedM. - maintained by thirst without affiliation",
   "version": "1.10.7",
