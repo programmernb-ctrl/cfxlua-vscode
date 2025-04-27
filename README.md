@@ -1,8 +1,14 @@
 # CfxLua (FiveM/RedM) IntelliSense
+### maintained by thirst
 
+> [!IMPORTANT]
+> This is a fork of the original repository since the original was discontinued i'll try to maintain it for myself.
+
+> [!TIP]
+> The vsc extension link is the old one and is not updated, i'll release it soon on the marketplace
 ![](https://img.shields.io/visual-studio-marketplace/d/overextended.cfxlua-vscode) ![](https://img.shields.io/visual-studio-marketplace/i/overextended.cfxlua-vscode)
 
-_This extension is not authored, published, sponsored, nor endorsed by Cfx.re._
+_This extension is not authored, published, sponsored, nor endorsed by Cfx.re. or R*_
 
 ## Features
 
@@ -17,4 +23,4 @@ _This extension is not authored, published, sponsored, nor endorsed by Cfx.re._
 ![image](https://github.com/overextended/cfxlua-vscode/assets/65407488/6f609fa2-ca19-4705-adf5-80635d539cbd)
 ![image](https://github.com/overextended/cfxlua-vscode/assets/65407488/b837c0a8-01b0-4e3d-95f9-f925cb1320bf)
 
-**Thanks to CitizenFX, gottfriedleibniz, alloc8or, iTexZoz, and TasoOneAsia**
+**Thanks to CitizenFX, gottfriedleibniz, alloc8or, iTexZoz, and TasoOneAsia, and the biggest thanks go to overextended for all his effort**
