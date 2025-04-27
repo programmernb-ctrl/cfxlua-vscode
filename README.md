@@ -5,8 +5,9 @@
 > This is a fork of the original repository since the original was discontinued i'll try to maintain it for myself.
 
 > [!TIP]
-> The vsc extension link is the old one and is not updated, i'll release it soon on the marketplace
-![](https://img.shields.io/visual-studio-marketplace/d/overextended.cfxlua-vscode) ![](https://img.shields.io/visual-studio-marketplace/i/overextended.cfxlua-vscode)
+> The vsc extension link is now updated.
+
+![](https://img.shields.io/visual-studio-marketplace/d/revolution.cfxlua-vscode) ![](https://img.shields.io/visual-studio-marketplace/i/revolution.cfxlua-vscode)
 
 _This extension is not authored, published, sponsored, nor endorsed by Cfx.re. or R*_
 
