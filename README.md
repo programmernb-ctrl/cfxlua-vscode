@@ -7,7 +7,7 @@
 > [!TIP]
 > The vsc extension link is now updated.
 
-![](https://img.shields.io/visual-studio-marketplace/d/revolution.cfxlua-vscode) ![](https://img.shields.io/visual-studio-marketplace/i/revolution.cfxlua-vscode)
+![](https://img.shields.io/visual-studio-marketplace/d/thirst.cfxlua-typings) ![](https://img.shields.io/visual-studio-marketplace/i/thirst.cfxlua-typings)
 
 _This extension is not authored, published, sponsored, nor endorsed by Cfx.re. or R*_
 
