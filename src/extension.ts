@@ -33,7 +33,7 @@ import * as path from 'node:path';
 import * as os from 'node:os';
 import moveFile from './moveFile';
 
-export const id = 'thirst.cfxlua-vscode';
+export const id = 'thirst.cfxlua-typings';
 export const extension = extensions.getExtension(id)!;
 export let storagePath = '';
 
