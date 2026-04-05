@@ -1,6 +1,6 @@
 {
-  "name": "cfxlua-typings",
-  "displayName": "CfxLua |FiveM/RedM| Typings - thirst",
+  "name": "cfxlua-types-intellisense",
+  "displayName": "CfxLua |FiveM/RedM| Types - thirst",
   "description": "Natives and IntelliSense support for the Lua Script runtime used by FiveM and RedM. - maintained by thirst without affiliation",
   "version": "1.10.20",
   "publisher": "thirst",
